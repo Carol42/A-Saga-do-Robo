@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.botao-tela-inicial {
+  font-family: 'Press Start 2P', cursive;  padding: 1rem 1.25rem;
+  font-size: 1.5rem;
+  letter-spacing: .25rem;
+  box-shadow: 2px 2px 0px 1px #1a1a1a;
+  background-color: #333;
+  border: none;
+  border-radius: .75rem;
+  color: #fff;
+}
+
+.botao-tela-inicial:hover {
+  background-color: #a6a6a6;
+  box-shadow: 2px 2px 0px 1px #999;
+}
