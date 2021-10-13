@@ -10,7 +10,7 @@ Em busca do Robô Perdido
 </h3>
 
 ##  Sobre
-Esse jogo foi desenvolvido durante a Imersão GameDev da Alura
+Esse jogo foi desenvolvido durante a Imersão GameDev da Alura.
 
 ---
 
@@ -20,7 +20,9 @@ Tilipe Deschamps (Michel Teló nas horas vagas) é um cara legal cuja paixão é
 ---
 
 ##  Como jogar
-Utilize as setas do teclado para mover o personagem (para frente, para trás e pular) 
+
+Utilize as setas do teclado para mover o personagem (para frente, para trás e pular). 
+
 ---
 
 <h1 align="center">
