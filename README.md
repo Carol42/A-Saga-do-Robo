@@ -1,6 +1,6 @@
 <div id="topo"></div>
 <h1 align='center'>
-    <img src="./imagens/screenshots/Tilipe.png" width="10%" >
+    <img src="./imagens/screenshots/Tilipe.png" width="10%" alt="imagem do personagem principal do jogo" >
     <img src='./imagens/screenshots/saga-do-robo-titulo.png' width='70%' alt='a saga do robô'>
 </h1>
 <h2 align="center" >Um joguinho simples em homenagem ao Filipe Deschamps</h2>
