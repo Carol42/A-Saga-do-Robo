@@ -30,13 +30,13 @@
         <li><a href="#scroll-história">História</a></li>
         <li><a href="#dart-o-objetivo">O Objetivo</a></li>
         <li><a href="#video_game-como-jogar">Como Jogar</a></li>
-        <li><a href="#hammer_and_wrench-tecnologias-utilizadas">Tecnologias e recursos utilizados</a></li>
+        <li><a href="#hammer_and_wrench-tecnologias-utilizadas">Tecnologias utilizadas</a></li>
         <li><a href="#woman_technologist-a-desenvolvedora">A desenvolvedora</a></li>
     </ol>
 </details>
 
 <div align="center">
-<img src="./imagens/screenshots/screenshot-1.png" alt="página inicial do jogo">
+<img src="./imagens/screenshots/screenshot-1.png" alt="página inicial do jogo" width="80%">
 </div>
 
 
@@ -44,11 +44,11 @@
 <div width="40%" >
     <p>Esse jogo foi desenvolvido durante a <a href="https://www.alura.com.br/imersao-gamedev-javascript">Imersão GameDev</a> da <a href="https://www.alura.com.br/">Alura</a>, que ocorreu entre os dias 22 e 26 de junho de 2020 e foi ministrada pelos instrutores <a href="https://cursos.alura.com.br/user/guilhermelima">Guilherme Lima</a> e <a href="https://cursos.alura.com.br/user/juunegreiros">Juliana Negreiros</a>.</p>
     <p>A proposta era de, em uma semana, construir do zero um jogo 2D, explorando os principais tópicos em desenvolvimento de jogos e Programação Orientada a Objetos.</p>
-    <p>Os principais tópicos abordados foram: animações, colisões, mapas, powerups e gerenciamento de estado.</p>
+    <p>Os principais tópicos abordados foram: animações, colisões, mapas, powerups e gerenciamento de estado. O Placar da Imersão conta com os principais projetos desenvolvidos e pode ser acessado <a href="https://imersao-gamedev.github.io/placar/">aqui</a>.</p>
 </div>
 
-<div align="center" width="40%">
-<img src="./imagens/screenshots/screenshot-4.png" alt="certificado imersão gamedev da Alura">
+<div align="center">
+<img src="./imagens/screenshots/screenshot-4.png" alt="certificado imersão gamedev da Alura" width="40%">
 </div>
 
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=CF2323&style=flat&logo" alt="voltar ao topo" /></a></p>
@@ -61,7 +61,7 @@ E foi o que aconteceu. Tilipe teve seus robôs roubados. Agora ele precisa sair 
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=CF2323&style=flat&logo" alt="voltar ao topo" /></a></p>
 
 <div align="center">
-<img src="./imagens/screenshots/screenshot-3.png" alt="foto da tela do jogo rodando">
+<img src="./imagens/screenshots/screenshot-3.png" alt="foto da tela do jogo rodando" width="80%">
 </div>
 
 ## :dart: O Objetivo
@@ -83,7 +83,7 @@ Ah, e o jogo é repleto de Eater Eggs do canal <a href="https://www.youtube.com/
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=CF2323&style=flat&logo" alt="voltar ao topo" /></a></p>
 
 <div align="center">
-<img src="./imagens/screenshots/screenshot-2.png" alt="foto da tela do jogo rodando">
+<img src="./imagens/screenshots/screenshot-2.png" alt="foto da tela do jogo rodando" width="80%">
 </div>
 
 ## :hammer_and_wrench: Tecnologias utilizadas
