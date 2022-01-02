@@ -78,7 +78,7 @@ Será que ele conseguirá chegar ao final do mapa sem procrastinar muito?
 
 Utilize as setas do teclado para mover o personagem (para frente, para trás e pular). Evite os memes de passarinho e o Instagram. Procure por doguinhos e pelo robô no final do mapa!
 
-Ah, e o jogo é repleto de Eater Eggs do canal <a href="https://www.youtube.com/c/FilipeDeschamps/videos">Filipe Deschamps</a>. Você consegue encontrar todos eles?
+Ah, e o jogo é repleto de Easter Eggs do canal <a href="https://www.youtube.com/c/FilipeDeschamps/videos">Filipe Deschamps</a>. Você consegue encontrar todos eles?
 
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=CF2323&style=flat&logo" alt="voltar ao topo" /></a></p>
 
