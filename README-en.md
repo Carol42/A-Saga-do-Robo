@@ -51,14 +51,14 @@
 <img src="./imagens/screenshots/screenshot-4.png" alt="Alura's imersão gamedev certficate" width="40%">
 </div>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=CF2323&style=flat&logo" alt="back to top" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=339933&style=flat&logo" alt="back to top" /></a></p>
 
 ## :scroll: Story
 Tilipe Deschamps (Michel Teló in his free time) is a nice guy whose passion is to make people fall in love with programming. But he wasn't expecting that one of his biggest projects published with this purpose would end up drawing attention from the wrong people, I mean, the wrong machines. The mentioned project featured 4 robots that create and post videos on youtube. In a war between humans and machines, it would become a great source of information about the human mind and a powerful advantage to the machines. 
 
 So that happened. Tilipe's robots were kidnaped. Now he needs to go out on an adventure throughout the dangerous Machine's Kingdom to rescue them. Furthermore, this kingdom is extremely perverse. The machines know how to make humans get distracted easily and forget about their aims. 
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=CF2323&style=flat&logo" alt="back to top" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=339933&style=flat&logo" alt="back to top" /></a></p>
 
 <div align="center">
 <img src="./imagens/screenshots/screenshot-3.png" alt="screenshot of the game" width="80%">
@@ -71,7 +71,7 @@ Throughout the course, our hero will be tempted by social media and bird memes. 
 Will he succeed and get to the end of the map without procrastinating too much?
 
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=CF2323&style=flat&logo" alt="back to top" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=339933&style=flat&logo" alt="back to top" /></a></p>
 
 
 ## :video_game: How to play
@@ -80,7 +80,7 @@ Use the arrow keys to move the character (to the right, to the left and jump). A
 
 The game is full of Easter Eggs from the YouTube channel <a href="https://www.youtube.com/c/FilipeDeschamps/videos">Filipe Deschamps</a>. Can you spot all of them?
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=CF2323&style=flat&logo" alt="back to top" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=339933&style=flat&logo" alt="back to top" /></a></p>
 
 <div align="center">
 <img src="./imagens/screenshots/screenshot-2.png" alt="screenshot of the game" width="80%">
@@ -90,7 +90,7 @@ The game is full of Easter Eggs from the YouTube channel <a href="https://www.yo
 
 - [p5.js](https://p5js.org/)
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=CF2323&style=flat&logo" alt="back to top" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=339933&style=flat&logo" alt="back to top" /></a></p>
 
 ## :woman_technologist: The developer
 
@@ -104,4 +104,4 @@ The game is full of Easter Eggs from the YouTube channel <a href="https://www.yo
 <a href="https://linkedin.com/in/carol42"><img src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=plastic&logo=linkedin" alt="link to my LinkedIn" /></a>
 <a href="mailto:carol42.helo@gmail.com"><img src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=plastic&logo=gmail" alt="link to send me an email" /></a>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=CF2323&style=flat&logo" alt="back to top" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=339933&style=flat&logo" alt="back to top" /></a></p>
