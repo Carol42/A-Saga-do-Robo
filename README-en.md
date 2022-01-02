@@ -1,7 +1,7 @@
 <div id="top"></div>
 <h1 align='center'>
     <img src="./imagens/screenshots/Tilipe.png" width="10%" alt="main character of the game image" >
-    <img src='./imagens/screenshots/title-en.png' width='90%' alt='the robot saga'>
+    <img src='./imagens/screenshots/title-en.png' width='85%' alt='the robot saga'>
 </h1>
 <h2 align="center" >A short and simple game in tribute to Filipe Deschamps</h2>
 <p align="center"><i>“Unfortunately, no one can be told what the Matrix is. You have to see it for yourself." - Morpheus, ‘The Matrix' (1999)</i> </p>
