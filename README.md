@@ -51,14 +51,14 @@
 <img src="./imagens/screenshots/screenshot-4.png" alt="certificado imersão gamedev da Alura" width="40%">
 </div>
 
-<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=CF2323&style=flat&logo" alt="voltar ao topo" /></a></p>
+<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=339933&style=flat&logo" alt="voltar ao topo" /></a></p>
 
 ## :scroll: História
 Tilipe Deschamps (Michel Teló nas horas vagas) é um cara legal cuja paixão é fazer as pessoas se apaixonarem por programação. O que ele não esperava era que um de seus maiores projetos divulgados com esse propósito acabaria por chamar atenção das pessoas, digo, máquinas erradas. O tal projeto era composto por 4 robôs que criavam e postavam vídeos para o youtube. Em um momento de guerra entre humanos e máquinas, isso se tornaria uma ótima fonte de dados sobre a mente humana e uma vantagem poderosíssima para as máquinas. 
 
 E foi o que aconteceu. Tilipe teve seus robôs roubados. Agora ele precisa sair em uma aventura pelo perigoso Reino das Máquinas para recuperá-los. Porém esse reino é extremamente perverso. As máquinas sabem como fazer humanos se distraírem facilmente e se desligarem dos seus objetivos. 
 
-<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=CF2323&style=flat&logo" alt="voltar ao topo" /></a></p>
+<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=339933&style=flat&logo" alt="voltar ao topo" /></a></p>
 
 <div align="center">
 <img src="./imagens/screenshots/screenshot-3.png" alt="foto da tela do jogo rodando" width="80%">
@@ -71,7 +71,7 @@ Durante todo o percurso nosso heroi será tentado pelas redes sociais e por meme
 Será que ele conseguirá chegar ao final do mapa sem procrastinar muito?
 
 
-<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=CF2323&style=flat&logo" alt="voltar ao topo" /></a></p>
+<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=339933&style=flat&logo" alt="voltar ao topo" /></a></p>
 
 
 ## :video_game: Como jogar
@@ -80,7 +80,7 @@ Utilize as setas do teclado para mover o personagem (para frente, para trás e p
 
 Ah, e o jogo é repleto de Easter Eggs do canal <a href="https://www.youtube.com/c/FilipeDeschamps/videos">Filipe Deschamps</a>. Você consegue encontrar todos eles?
 
-<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=CF2323&style=flat&logo" alt="voltar ao topo" /></a></p>
+<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=339933&style=flat&logo" alt="voltar ao topo" /></a></p>
 
 <div align="center">
 <img src="./imagens/screenshots/screenshot-2.png" alt="foto da tela do jogo rodando" width="80%">
@@ -90,7 +90,7 @@ Ah, e o jogo é repleto de Easter Eggs do canal <a href="https://www.youtube.com
 
 - [p5.js](https://p5js.org/)
 
-<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=CF2323&style=flat&logo" alt="voltar ao topo" /></a></p>
+<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=339933&style=flat&logo" alt="voltar ao topo" /></a></p>
 
 ## :woman_technologist: A desenvolvedora
 
@@ -104,4 +104,4 @@ Ah, e o jogo é repleto de Easter Eggs do canal <a href="https://www.youtube.com
 <a href="https://linkedin.com/in/carol42"><img src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=plastic&logo=linkedin" alt="link para o meu LinkedIn" /></a>
 <a href="mailto:carol42.helo@gmail.com"><img src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=plastic&logo=gmail" alt="link para me mandar um e-mail" /></a>
 
-<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=CF2323&style=flat&logo" alt="voltar ao topo" /></a></p>
+<p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=339933&style=flat&logo" alt="voltar ao topo" /></a></p>
