@@ -20,7 +20,7 @@
     <a href="https://preview.p5js.org/Carol42/present/qYJRo0QUe"> Acessar a demonstração do jogo</a>
 </h3>
 <h4 align="center"> 
-    <a href="./README-en.md">Go to the English version of this README »</a>
+    <a href="./README-en.md"> :us::gb: Go to the English version of this README »</a>
 </h4>
 
 <details>
