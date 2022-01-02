@@ -41,7 +41,7 @@
 
 
 ## :pushpin: Sobre
-<div width="40%" >
+<div>
     <p>Esse jogo foi desenvolvido durante a <a href="https://www.alura.com.br/imersao-gamedev-javascript">Imersão GameDev</a> da <a href="https://www.alura.com.br/">Alura</a>, que ocorreu entre os dias 22 e 26 de junho de 2020 e foi ministrada pelos instrutores <a href="https://cursos.alura.com.br/user/guilhermelima">Guilherme Lima</a> e <a href="https://cursos.alura.com.br/user/juunegreiros">Juliana Negreiros</a>.</p>
     <p>A proposta era de, em uma semana, construir do zero um jogo 2D, explorando os principais tópicos em desenvolvimento de jogos e Programação Orientada a Objetos.</p>
     <p>Os principais tópicos abordados foram: animações, colisões, mapas, powerups e gerenciamento de estado. O Placar da Imersão conta com os principais projetos desenvolvidos e pode ser acessado <a href="https://imersao-gamedev.github.io/placar/">aqui</a>.</p>
