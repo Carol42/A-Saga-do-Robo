@@ -58,11 +58,11 @@ Tilipe Deschamps (Michel Teló in his free time) is a nice guy whose passion is 
 
 So that happened. Tilipe's robots were kidnaped. Now he needs to go out on an adventure throughout the dangerous Machine's Kingdom to rescue them. Furthermore, this kingdom is extremely perverse. The machines know how to make humans get distracted easily and forget about their aims. 
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=339933&style=flat&logo" alt="back to top" /></a></p>
-
 <div align="center">
 <img src="./imagens/screenshots/screenshot-3.png" alt="screenshot of the game" width="80%">
 </div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=339933&style=flat&logo" alt="back to top" /></a></p>
 
 ## :dart: The Goal
 
@@ -70,6 +70,9 @@ Throughout the course, our hero will be tempted by social media and bird memes. 
 
 Will he succeed and get to the end of the map without procrastinating too much?
 
+<div align="center">
+<img src="./imagens/screenshots/anim-jogo.gif" alt="animation of the game" width="80%">
+</div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=339933&style=flat&logo" alt="back to top" /></a></p>
 
@@ -80,11 +83,12 @@ Use the arrow keys to move the character (to the right, to the left and jump). A
 
 The game is full of Easter Eggs from the YouTube channel <a href="https://www.youtube.com/c/FilipeDeschamps/videos">Filipe Deschamps</a>. Can you spot all of them?
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=339933&style=flat&logo" alt="back to top" /></a></p>
-
 <div align="center">
 <img src="./imagens/screenshots/screenshot-2.png" alt="screenshot of the game" width="80%">
 </div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=339933&style=flat&logo" alt="back to top" /></a></p>
+
 
 ## :hammer_and_wrench: Technologies
 
