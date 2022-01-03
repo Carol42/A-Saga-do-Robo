@@ -42,7 +42,7 @@
 
 ## :pushpin: About
 <div>
-    <p>This game has been developed during the <a href="https://www.alura.com.br/imersao-gamedev-javascript">Imersão GameDev</a> by <a href="https://www.alura.com.br/">Alura</a>, that was featured between the 22nd and 26th of June 2020 e foi taught by the instructors <a href="https://cursos.alura.com.br/user/guilhermelima">Guilherme Lima</a> and <a href="https://cursos.alura.com.br/user/juunegreiros">Juliana Negreiros</a>.</p>
+    <p>This game has been developed during the <a href="https://www.alura.com.br/imersao-gamedev-javascript">Imersão GameDev</a> by <a href="https://www.alura.com.br/">Alura</a>, that was featured between the 22<sup>nd</sup> and 26<sup>th</sup> of June 2020 e foi taught by the instructors <a href="https://cursos.alura.com.br/user/guilhermelima">Guilherme Lima</a> and <a href="https://cursos.alura.com.br/user/juunegreiros">Juliana Negreiros</a>.</p>
     <p>The idea was that, in just a week, we would build a 2D game from scratch, exploring the essential topics about game development and Object Oriented Programming.</p>
     <p>Among the main topics covered are: animations, collisions, maps, powerups and state management. The <a href="https://imersao-gamedev.github.io/placar/">Placar da Imersão</a> contains the best projects developed during the event.</p>
 </div>
