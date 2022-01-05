@@ -23,6 +23,10 @@
     <a href="./README-en.md"> :us::gb: Go to the English version of this README »</a>
 </h4>
 
+<div align="center">
+<img src="./imagens/screenshots/screenshot-1.png" alt="página inicial do jogo" width="80%">
+</div>
+
 <details>
     <summary>Sumário</summary>
     <ol>
@@ -34,11 +38,6 @@
         <li><a href="#woman_technologist-a-desenvolvedora">A desenvolvedora</a></li>
     </ol>
 </details>
-
-<div align="center">
-<img src="./imagens/screenshots/screenshot-1.png" alt="página inicial do jogo" width="80%">
-</div>
-
 
 ## :pushpin: Sobre
 <div>
