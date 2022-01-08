@@ -10,6 +10,7 @@
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/A-Saga-do-Robo?color=181717&logo=github&style=plastic&logoColor=181717">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Carol42/A-Saga-do-Robo?color=%23F7DF1E&logo=javascript&style=plastic">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Carol42/A-Saga-do-Robo?color=F05032&logo=git&logoColor&style=plastic">
+<img alt="date created" src="https://badges.pufler.dev/created/Carol42/A-Saga-do-Robo?style=plastic&color=339933">
 <img src="https://img.shields.io/static/v1?label=✔ status&message=concluído&color=393&style=plastic&logo=" alt="status: concluído"/></div>
 <div align="center">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/Carol42/A-Saga-do-Robo?style=social">
