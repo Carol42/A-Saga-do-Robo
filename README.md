@@ -6,7 +6,12 @@
 <h2 align="center" >Um joguinho simples em homenagem ao Filipe Deschamps</h2>
 <p align="center"><i>“Unfortunately, no one can be told what the Matrix is. You have to see it for yourself." - Morpheus, ‘The Matrix' (1999)</i> </p>
 
-<div align="center" ><img alt="project's license MIT" src="https://img.shields.io/github/license/Carol42/A-Saga-do-Robo?style=plastic&color=339933">
+<table align="right">
+ <tr><td><a href="https://github.com/Carol42/A-Saga-do-Robo/blob/main/README-en.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/A-Saga-do-Robo/blob/main/README.md">:brazil: Português</a></td></tr>
+</table>
+<span>&nbsp;</span>
+<div align="" ><img alt="project's license MIT" src="https://img.shields.io/github/license/Carol42/A-Saga-do-Robo?style=plastic&color=339933">
 <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=339933&style=plastic&logo=" alt="PRs welcome" />
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/A-Saga-do-Robo?color=181717&logo=github&style=plastic&logoColor=181717">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Carol42/A-Saga-do-Robo?color=%23F7DF1E&logo=javascript&style=plastic">
@@ -16,11 +21,6 @@
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/Carol42/A-Saga-do-Robo?style=social">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Carol42/A-Saga-do-Robo?style=social">
 </div>
-
-<table align="right">
- <tr><td><a href="https://github.com/Carol42/A-Saga-do-Robo/blob/main/README-en.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/A-Saga-do-Robo/blob/main/README.md">:brazil: Português</a></td></tr>
-</table>
 
 <h3 align="center">
     :link:
