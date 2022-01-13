@@ -1,31 +1,40 @@
 <div id="topo"></div>
 <h1 align='center'>
-    <img src="./imagens/screenshots/Tilipe.png" width="10%" alt="imagem do personagem principal do jogo" >
-    <img src='./imagens/screenshots/saga-do-robo-titulo.png' width='70%' alt='a saga do robô'>
+    <img src="https://github.com/Carol42/A-Saga-do-Robo/blob/main/imagens/screenshots/Tilipe.png" width="10%" alt="imagem do personagem principal do jogo" >
+    <img src='https://github.com/Carol42/A-Saga-do-Robo/blob/main/imagens/screenshots/saga-do-robo-titulo.png' width='70%' alt='a saga do robô'>
 </h1>
 <h2 align="center" >Um joguinho simples em homenagem ao Filipe Deschamps</h2>
 <p align="center"><i>“Unfortunately, no one can be told what the Matrix is. You have to see it for yourself." - Morpheus, ‘The Matrix' (1999)</i> </p>
+
 <div align="center" ><img alt="project's license MIT" src="https://img.shields.io/github/license/Carol42/A-Saga-do-Robo?style=plastic&color=339933">
 <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=339933&style=plastic&logo=" alt="PRs welcome" />
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/A-Saga-do-Robo?color=181717&logo=github&style=plastic&logoColor=181717">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Carol42/A-Saga-do-Robo?color=%23F7DF1E&logo=javascript&style=plastic">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Carol42/A-Saga-do-Robo?color=F05032&logo=git&logoColor&style=plastic">
 <img alt="date created" src="https://badges.pufler.dev/created/Carol42/A-Saga-do-Robo?style=plastic&color=339933">
-<img src="https://img.shields.io/static/v1?label=✔ status&message=concluído&color=393&style=plastic&logo=" alt="status: concluído"/></div>
+<img src="https://img.shields.io/static/v1?label=✔ status&message=concluído&color=393&style=plastic&logo=" alt="status: concluído"/>  
+</div>
+
+<table align="right">
+ <tr><td><a href="https://github.com/Carol42/A-Saga-do-Robo/blob/main/README-en.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/A-Saga-do-Robo/blob/main/README.md">:brazil: Português</a></td></tr>
+</table>
+
 <div align="center">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/Carol42/A-Saga-do-Robo?style=social">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Carol42/A-Saga-do-Robo?style=social">
 </div>
+
 <h3 align="center">
     :link:
     <a href="https://preview.p5js.org/Carol42/present/qYJRo0QUe"> Acessar a demonstração do jogo</a>
 </h3>
-<h4 align="center"> 
+<!--<h4 align="center"> 
     <a href="./README-en.md"> :us::gb: Go to the English version of this README »</a>
-</h4>
+</h4>-->
 
 <div align="center">
-<img src="./imagens/screenshots/screenshot-1.png" alt="página inicial do jogo" width="80%">
+<img src="https://github.com/Carol42/A-Saga-do-Robo/blob/main/imagens/screenshots/screenshot-1.png" alt="página inicial do jogo" width="80%">
 </div>
 
 <details>
@@ -48,7 +57,7 @@
 </div>
 
 <div align="center">
-<img src="./imagens/screenshots/screenshot-4.png" alt="certificado imersão gamedev da Alura" width="40%">
+<img src="https://github.com/Carol42/A-Saga-do-Robo/blob/main/imagens/screenshots/screenshot-4.png" alt="certificado imersão gamedev da Alura" width="40%">
 </div>
 
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=339933&style=flat&logo" alt="voltar ao topo" /></a></p>
@@ -59,7 +68,7 @@ Tilipe Deschamps (Michel Teló nas horas vagas) é um cara legal cuja paixão é
 E foi o que aconteceu. Tilipe teve seus robôs roubados. Agora ele precisa sair em uma aventura pelo perigoso Reino das Máquinas para recuperá-los. Porém esse reino é extremamente perverso. As máquinas sabem como fazer humanos se distraírem facilmente e se desligarem dos seus objetivos. 
 
 <div align="center">
-<img src="./imagens/screenshots/screenshot-3.png" alt="foto da tela do jogo rodando" width="80%">
+<img src="https://github.com/Carol42/A-Saga-do-Robo/blob/main/imagens/screenshots/screenshot-3.png" alt="foto da tela do jogo rodando" width="80%">
 </div>
 
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=339933&style=flat&logo" alt="voltar ao topo" /></a></p>
@@ -71,7 +80,7 @@ Durante todo o percurso nosso heroi será tentado pelas redes sociais e por meme
 Será que ele conseguirá chegar ao final do mapa sem procrastinar muito?
 
 <div align="center">
-<img src="./imagens/screenshots/anim-jogo.gif" alt="animação da tela do jogo rodando" width="80%">
+<img src="https://github.com/Carol42/A-Saga-do-Robo/blob/main/imagens/screenshots/anim-jogo.gif" alt="animação da tela do jogo rodando" width="80%">
 </div>
 
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=339933&style=flat&logo" alt="voltar ao topo" /></a></p>
@@ -84,7 +93,7 @@ Utilize as setas do teclado para mover o personagem (para frente, para trás e p
 Ah, e o jogo é repleto de Easter Eggs do canal <a href="https://www.youtube.com/c/FilipeDeschamps/videos">Filipe Deschamps</a>. Você consegue encontrar todos eles?
 
 <div align="center">
-<img src="./imagens/screenshots/screenshot-2.png" alt="foto da tela do jogo rodando" width="80%">
+<img src="https://github.com/Carol42/A-Saga-do-Robo/blob/main/imagens/screenshots/screenshot-2.png" alt="foto da tela do jogo rodando" width="80%">
 </div>
 
 <p align="right"><a href="#topo"><img src="https://img.shields.io/static/v1?label&message=voltar ao topo&color=339933&style=flat&logo" alt="voltar ao topo" /></a></p>
