@@ -12,18 +12,15 @@
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Carol42/A-Saga-do-Robo?color=%23F7DF1E&logo=javascript&style=plastic">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Carol42/A-Saga-do-Robo?color=F05032&logo=git&logoColor&style=plastic">
 <img alt="date created" src="https://badges.pufler.dev/created/Carol42/A-Saga-do-Robo?style=plastic&color=339933">
-<img src="https://img.shields.io/static/v1?label=✔ status&message=concluído&color=393&style=plastic&logo=" alt="status: concluído"/>  
+<img src="https://img.shields.io/static/v1?label=✔ status&message=concluído&color=393&style=plastic&logo=" alt="status: concluído"/>
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/Carol42/A-Saga-do-Robo?style=social">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Carol42/A-Saga-do-Robo?style=social">
 </div>
 
 <table align="right">
  <tr><td><a href="https://github.com/Carol42/A-Saga-do-Robo/blob/main/README-en.md">:us: English</a></td></tr>
  <tr><td><a href="https://github.com/Carol42/A-Saga-do-Robo/blob/main/README.md">:brazil: Português</a></td></tr>
 </table>
-
-<div align="center">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Carol42/A-Saga-do-Robo?style=social">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Carol42/A-Saga-do-Robo?style=social">
-</div>
 
 <h3 align="center">
     :link:
