@@ -1,10 +1,15 @@
 <div id="top"></div>
 <h1 align='center'>
-    <img src="./imagens/screenshots/Tilipe.png" width="10%" alt="main character of the game image" >
-    <img src='./imagens/screenshots/title-en.png' width='85%' alt='the robot saga'>
+    <img src="https://github.com/Carol42/A-Saga-do-Robo/blob/main/imagens/screenshots/Tilipe.png" width="10%" alt="main character of the game image" >
+    <img src='https://github.com/Carol42/A-Saga-do-Robo/blob/main/imagens/screenshots/title-en.png' width='85%' alt='the robot saga'>
 </h1>
 <h2 align="center" >A short and simple game in tribute to Filipe Deschamps</h2>
 <p align="center"><i>“Unfortunately, no one can be told what the Matrix is. You have to see it for yourself." - Morpheus, ‘The Matrix' (1999)</i> </p>
+<table align="right">
+ <tr><td><a href="https://github.com/Carol42/A-Saga-do-Robo/blob/main/README-en.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/A-Saga-do-Robo/blob/main/README.md">:brazil: Português</a></td></tr>
+</table>
+<span>&nbsp;</span>
 <div align="center" ><img alt="project's license" src="https://img.shields.io/github/license/Carol42/A-Saga-do-Robo?style=plastic&color=339933">
 <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=339933&style=plastic&logo=" alt="PRs welcome" />
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/A-Saga-do-Robo?color=181717&logo=github&style=plastic&logoColor=181717">
@@ -19,12 +24,12 @@
     :link:
     <a href="https://preview.p5js.org/Carol42/present/qYJRo0QUe">Go to the game demonstration</a>
 </h3>
-<h4 align="center"> 
+<!--<h4 align="center"> 
     <a href="./README.md"> :brazil: Ir para a versão em Português deste README »</a>
-</h4>
+</h4>-->
 
 <div align="center">
-<img src="./imagens/screenshots/screenshot-1.png" alt="homepage of the game" width="80%">
+<img src="https://github.com/Carol42/A-Saga-do-Robo/blob/main/imagens/screenshots/screenshot-1.png" alt="homepage of the game" width="80%">
 </div>
 
 <details>
@@ -47,7 +52,7 @@
 </div>
 
 <div align="center">
-<img src="./imagens/screenshots/screenshot-4.png" alt="Alura's imersão gamedev certficate" width="40%">
+<img src="https://github.com/Carol42/A-Saga-do-Robo/blob/main/imagens/screenshots/screenshot-4.png" alt="Alura's imersão gamedev certficate" width="40%">
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=339933&style=flat&logo" alt="back to top" /></a></p>
@@ -58,7 +63,7 @@ Tilipe Deschamps (Michel Teló in his free time) is a nice guy whose passion is 
 So that happened. Tilipe's robots were kidnaped. Now he needs to go out on an adventure throughout the dangerous Machine's Kingdom to rescue them. Furthermore, this kingdom is extremely perverse. The machines know how to make humans get distracted easily and forget about their aims. 
 
 <div align="center">
-<img src="./imagens/screenshots/screenshot-3.png" alt="screenshot of the game" width="80%">
+<img src="https://github.com/Carol42/A-Saga-do-Robo/blob/main/imagens/screenshots/screenshot-3.png" alt="screenshot of the game" width="80%">
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=339933&style=flat&logo" alt="back to top" /></a></p>
@@ -70,7 +75,7 @@ Throughout the course, our hero will be tempted by social media and bird memes. 
 Will he succeed and get to the end of the map without procrastinating too much?
 
 <div align="center">
-<img src="./imagens/screenshots/anim-jogo.gif" alt="animation of the game" width="80%">
+<img src="https://github.com/Carol42/A-Saga-do-Robo/blob/main/imagens/screenshots/anim-jogo.gif" alt="animation of the game" width="80%">
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=339933&style=flat&logo" alt="back to top" /></a></p>
@@ -83,7 +88,7 @@ Use the arrow keys to move the character (to the right, to the left and jump). A
 The game is full of Easter Eggs from the YouTube channel <a href="https://www.youtube.com/c/FilipeDeschamps/videos">Filipe Deschamps</a>. Can you spot all of them?
 
 <div align="center">
-<img src="./imagens/screenshots/screenshot-2.png" alt="screenshot of the game" width="80%">
+<img src="https://github.com/Carol42/A-Saga-do-Robo/blob/main/imagens/screenshots/screenshot-2.png" alt="screenshot of the game" width="80%">
 </div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=339933&style=flat&logo" alt="back to top" /></a></p>
